@@ -1,0 +1,13 @@
+{
+    "arch_layout": ["m4", ["m0"], "m4"],
+    "d_model": [1536, 2048],
+    "d_intermediate": [4096, 4096],
+    "routing_d_intermediate": 8192,
+    "vocab_size": 256,
+    "ssm_cfg": {
+        "chunk_size": 256,
+        "d_conv": 4,
+        "d_state": 128,
+        "expand": 2
+    }
+}

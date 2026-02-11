@@ -1,0 +1,14 @@
+accelerate==1.9.0
+einops==0.8.2
+flash_attn==2.8.0.post2
+huggingface_hub==0.35.3
+lm_eval==0.4.9
+mamba_ssm==2.2.4
+numpy==2.4.2
+pyarrow==21.0.0
+scikit_learn==1.8.0
+swanlab==0.7.7
+torch==2.7.1
+tqdm==4.67.1
+transformers==4.56.2
+wandb==0.24.1
